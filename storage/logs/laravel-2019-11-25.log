@@ -1,0 +1,1574 @@
+[2019-11-25 21:41:30] local.ERROR: Command "make:Fuctions" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:Fuctions\" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php:670)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(236): Symfony\\Component\\Console\\Application->find('make:Fuctions')
+#1 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(148): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-11-25 21:47:39] local.ERROR: Command "make:Fuctions" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:Fuctions\" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php:670)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(236): Symfony\\Component\\Console\\Application->find('make:Fuctions')
+#1 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(148): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-11-25 21:47:49] local.ERROR: Command "make:Fuctions" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:Fuctions\" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php:670)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(236): Symfony\\Component\\Console\\Application->find('make:Fuctions')
+#1 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(148): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-11-25 21:47:53] local.ERROR: Command "make:Fuctions" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:Fuctions\" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php:670)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(236): Symfony\\Component\\Console\\Application->find('make:Fuctions')
+#1 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(148): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-11-25 21:53:01] local.ERROR: Command "make:Fuctions" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:Fuctions\" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php:670)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(236): Symfony\\Component\\Console\\Application->find('make:Fuctions')
+#1 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(148): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-11-25 21:53:09] local.ERROR: Command "make:Fuctions" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:Fuctions\" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php:670)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(236): Symfony\\Component\\Console\\Application->find('make:Fuctions')
+#1 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(148): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-11-25 21:53:20] local.ERROR: Command "make:Fuction" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:Fuction\" is not defined.
+
+Did you mean one of these?
+    make:auth
+    make:channel
+    make:command
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php:670)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(236): Symfony\\Component\\Console\\Application->find('make:Fuction')
+#1 C:\\bhaskaraOficial\\vendor\\symfony\\console\\Application.php(148): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-11-25 22:11:18] local.ERROR: Class 'Ilumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Ilumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:11:29] local.ERROR: Class 'Ilumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Ilumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:11:34] local.ERROR: Class 'Ilumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Ilumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:13:26] local.ERROR: Class 'Ilumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Ilumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:13:30] local.ERROR: Class 'Ilumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Ilumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:13:36] local.ERROR: Class 'Ilumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Ilumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:14:55] local.ERROR: Class 'llumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'llumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:19:03] local.ERROR: Class 'Illumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Illumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:19:28] local.ERROR: Class 'Illumminates\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Illumminates\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:19:58] local.ERROR: Class 'Illumminate\Support\Facades\Schema' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Illumminate\\Support\\Facades\\Schema' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:20:42] local.ERROR: Class 'Illumminate\Support\Facades\Cache' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Illumminate\\Support\\Facades\\Cache' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:23:36] local.ERROR: Class 'Illumminate\Support\Facades\Cache' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Illumminate\\Support\\Facades\\Cache' not found at C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php:26)
+[stacktrace]
+#0 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2019-11-25 22:31:31] local.ERROR: Call to undefined method Illuminate\Database\Schema\MySqlBuilder::defaultStringLegenth() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Database\\Schema\\MySqlBuilder::defaultStringLegenth() at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php:239)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php(26): Illuminate\\Support\\Facades\\Facade::__callStatic('defaultStringLe...', Array)
+#1 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#8 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#14 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#15 {main}
+"} 
+[2019-11-25 22:32:41] local.ERROR: Call to undefined method Illuminate\Database\Schema\MySqlBuilder::defaultStringLegenth() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Database\\Schema\\MySqlBuilder::defaultStringLegenth() at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php:239)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php(26): Illuminate\\Support\\Facades\\Facade::__callStatic('defaultStringLe...', Array)
+#1 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#8 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#14 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#15 {main}
+"} 
+[2019-11-25 22:39:01] local.ERROR: Call to undefined method Illuminate\Database\Schema\MySqlBuilder::defaultStringLegenth() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Database\\Schema\\MySqlBuilder::defaultStringLegenth() at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php:239)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php(26): Illuminate\\Support\\Facades\\Facade::__callStatic('defaultStringLe...', Array)
+#1 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#8 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#14 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#15 {main}
+"} 
+[2019-11-25 22:49:23] local.ERROR: Call to undefined method Illuminate\Database\Schema\MySqlBuilder::defaultStringLegenth() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Database\\Schema\\MySqlBuilder::defaultStringLegenth() at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php:239)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php(26): Illuminate\\Support\\Facades\\Facade::__callStatic('defaultStringLe...', Array)
+#1 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#8 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#14 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#15 {main}
+"} 
+[2019-11-25 22:55:56] local.ERROR: Call to undefined method Illuminate\Database\Schema\MySqlBuilder::defaultStringLegenth() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Database\\Schema\\MySqlBuilder::defaultStringLegenth() at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php:239)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php(26): Illuminate\\Support\\Facades\\Facade::__callStatic('defaultStringLe...', Array)
+#1 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#8 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#14 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#15 {main}
+"} 
+[2019-11-25 22:56:01] local.ERROR: Call to undefined method Illuminate\Database\Schema\MySqlBuilder::defaultStringLegenth() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Database\\Schema\\MySqlBuilder::defaultStringLegenth() at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php:239)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\app\\Providers\\AppServiceProvider.php(26): Illuminate\\Support\\Facades\\Facade::__callStatic('defaultStringLe...', Array)
+#1 [internal function]: App\\Providers\\AppServiceProvider->boot()
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AppServiceProvider))
+#8 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AppServiceProvider), 17)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#14 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#15 {main}
+"} 
+[2019-11-25 22:59:10] local.ERROR: Class App\Http\Controllers\FuctionsController does not exist {"exception":"[object] (ReflectionException(code: -1): Class App\\Http\\Controllers\\FuctionsController does not exist at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:788)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(788): ReflectionClass->__construct('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(233): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(833): Illuminate\\Routing\\Route->getController()
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(794): Illuminate\\Routing\\Route->controllerMiddleware()
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(693): Illuminate\\Routing\\Route->gatherMiddleware()
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(673): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(657): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(623): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(612): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(176): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(30): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#14 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode.php(62): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\bhaskaraOficial\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(104): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(151): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#32 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#33 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#34 {main}
+"} 
+[2019-11-25 23:27:02] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:27:06] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:27:29] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:27:38] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:27:43] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:28:10] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:28:15] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:30:18] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:30:23] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:30:33] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:30:37] local.ERROR: Invalid route action: [App\Http\Controllers\FuctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FuctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FuctionsControl...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FuctionsControl...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:31:03] local.ERROR: Invalid route action: [App\Http\Controllers\FunctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FunctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FunctionsContro...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FunctionsContro...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(162): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 C:\\bhaskaraOficial\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 C:\\bhaskaraOficial\\server.php(21): require_once('C:\\\\bhaskaraOfic...')
+#39 {main}
+"} 
+[2019-11-25 23:40:33] local.ERROR: Invalid route action: [App\Http\Controllers\FunctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FunctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FunctionsContro...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FunctionsContro...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#37 {main}
+"} 
+[2019-11-25 23:43:21] local.ERROR: Invalid route action: [App\Http\Controllers\FunctionsController]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [App\\Http\\Controllers\\FunctionsController]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FunctionsContro...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FunctionsContro...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#37 {main}
+"} 
+[2019-11-25 23:45:35] local.ERROR: Invalid route action: [{}]. {"exception":"[object] (UnexpectedValueException(code: 0): Invalid route action: [{}]. at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FunctionsContro...')
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FunctionsContro...')
+#8 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#9 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#15 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#16 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#22 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#23 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#24 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#30 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#31 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#36 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#37 {main}
+"} 
+[2019-11-25 23:46:22] local.ERROR: Undefined variable: route {"exception":"[object] (ErrorException(code: 0): Undefined variable: route at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(89): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\bhaskaraOfic...', 89, Array)
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FunctionsContro...')
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FunctionsContro...')
+#9 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#15 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#16 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#22 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#23 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#24 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#30 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#31 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#37 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 {main}
+"} 
+[2019-11-25 23:48:52] local.ERROR: Undefined variable: route {"exception":"[object] (ErrorException(code: 0): Undefined variable: route at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(89): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\bhaskaraOfic...', 89, Array)
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FunctionsContro...')
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FunctionsContro...')
+#9 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#15 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#16 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#22 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#23 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#24 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#30 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#31 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#37 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 {main}
+"} 
+[2019-11-25 23:57:59] local.ERROR: Undefined variable: route {"exception":"[object] (ErrorException(code: 0): Undefined variable: route at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(89): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\bhaskaraOfic...', 89, Array)
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FunctionsContro...')
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FunctionsContro...')
+#9 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#15 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#16 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#22 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#23 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#24 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#30 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#31 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#37 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 {main}
+"} 
+[2019-11-25 23:58:14] local.ERROR: Undefined variable: route {"exception":"[object] (ErrorException(code: 0): Undefined variable: route at C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php:89)
+[stacktrace]
+#0 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(89): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\bhaskaraOfic...', 89, Array)
+#1 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteAction.php(46): Illuminate\\Routing\\RouteAction::makeInvokable('App\\\\Http\\\\Contro...')
+#2 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(162): Illuminate\\Routing\\RouteAction::parse('function/create', Array)
+#3 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(141): Illuminate\\Routing\\Route->parseAction(Array)
+#4 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(547): Illuminate\\Routing\\Route->__construct(Array, 'function/create', Array)
+#5 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(466): Illuminate\\Routing\\Router->newRoute(Array, 'function/create', Array)
+#6 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(445): Illuminate\\Routing\\Router->createRoute(Array, '/function/creat...', Array)
+#7 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(144): Illuminate\\Routing\\Router->addRoute(Array, '/function/creat...', 'FunctionsContro...')
+#8 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(239): Illuminate\\Routing\\Router->get('/function/creat...', 'FunctionsContro...')
+#9 C:\\bhaskaraOficial\outes\\web.php(23): Illuminate\\Support\\Facades\\Facade::__callStatic('get', Array)
+#10 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\bhaskaraOfic...')
+#11 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(415): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\bhaskaraOfic...')
+#12 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(373): Illuminate\\Routing\\Router->loadRoutes('C:\\\\bhaskaraOfic...')
+#13 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(121): Illuminate\\Routing\\Router->group(Array, 'C:\\\\bhaskaraOfic...')
+#14 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(56): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\bhaskaraOfic...')
+#15 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(40): App\\Providers\\RouteServiceProvider->mapWebRoutes()
+#16 [internal function]: App\\Providers\\RouteServiceProvider->map()
+#17 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#18 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#19 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(87): Illuminate\\Container\\Container->call(Array)
+#22 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#23 C:\\bhaskaraOficial\\app\\Providers\\RouteServiceProvider.php(28): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->boot()
+#24 [internal function]: App\\Providers\\RouteServiceProvider->boot()
+#25 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#26 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#27 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#28 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(576): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#29 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(827): Illuminate\\Container\\Container->call(Array)
+#30 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(810): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#31 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 20)
+#32 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(811): array_walk(Array, Object(Closure))
+#33 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#34 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(210): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#35 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#36 C:\\bhaskaraOficial\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#37 C:\\bhaskaraOficial\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 {main}
+"} 
